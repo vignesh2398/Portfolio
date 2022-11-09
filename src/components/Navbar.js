@@ -1,5 +1,5 @@
 import React from 'react'
-import pdf from '../Vignesh-Resume.pdf'
+import pdf from '../Full Stack Resume.pdf'
 
 export const Navbar = () =>
 {
