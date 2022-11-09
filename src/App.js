@@ -1,11 +1,11 @@
 import './App.css';
 {/* import ScrollToTop from "react-scroll-to-top"; */}
-import { Skills } from './components/Skills';
-import { About } from './components/About';
 import { Home } from './components/Home';
+import { About } from './components/About';
+import { Timeline } from './components/Timeline';
+import { Skills } from './components/Skills';
 import { Projects } from './components/Projects';
 import { Contact } from './components/Contact';
-import { Timeline } from './components/Timeline';
 
 function App() {
   return (
