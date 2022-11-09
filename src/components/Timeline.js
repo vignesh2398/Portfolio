@@ -1,5 +1,5 @@
-import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timeline-component';{/*npm mosule for vertical map*/}
 import 'react-vertical-timeline-component/style.min.css';
+import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timeline-component';{/*npm mosule for vertical map*/}
 
 
 export const Timeline = () =>
