@@ -1,12 +1,12 @@
 import React from 'react'
-import pdf from '../Full Stack Resume.pdf'
+
 
 export const Navbar = () =>
 {
   return (
     <div className='container'>
     <nav class="navbar navbar-expand-lg">
-      <a class="navbar-brand" href="#"><span class="border border-3 border-success p-2">Vignesh</span> </a>
+      <a class="navbar-brand" href="#"><span class="border border-3 border-success p-2">Vignesh R</span> </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"><i className='fas fa-bars'></i></span>
       </button>
@@ -22,7 +22,9 @@ export const Navbar = () =>
             <a class="nav-link" href="#projectpage">PROJECTS</a>
           </li>
           <li class="nav-item">
-            <a class=" btn btn-outline-success text-success" href={pdf} target='_blank' style={{ borderRadius: "0px" }}>RESUME</a>
+           
+            <a href='#contactus' class="nav-link" style={{ borderRadius: "0px" }}>Contact me</a>
+            
           </li>
         </ul>
       </div>

@@ -44,6 +44,39 @@ export const Skills = () =>
                         <div class="progress-bar bg-primary" role="progressbar" style={{ width: "78%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                 </p>
+
+                
+                <p className='icons' data-aos="fade-left">
+                   <span>
+                        <i class="fab fa-github fa-3x"></i>
+                    </span>
+                    <div class="progress col-md-12" style={{ margin: "auto 2px" }}>
+                        <div class="progress-bar bg-primary" role="progressbar" style={{ width: "85%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                </p>
+                <p className='icons' data-aos="fade-left">
+                   <span>
+                   <img src='https://tse1.mm.bing.net/th?id=OIP.lIIc_svaWdGdEJuEk7TBlgHaHa&pid=Api&P=0' style={{ height: "50px", width: "60px" }}></img>
+
+                    </span>
+                    <div class="progress col-md-12" style={{ margin: "auto 2px" }}>
+                        <div class="progress-bar bg-primary" role="progressbar" style={{ width: "85%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                </p>
+
+
+                <p className='icons' data-aos="fade-left">
+                   <span>
+                   <img src='http://ww1.prweb.com/prfiles/2018/10/05/15812110/postman-logo-vert-2018.png' style={{ height: "50px", width: "60px" }}></img>
+
+                    </span>
+                    <div class="progress col-md-12" style={{ margin: "auto 2px" }}>
+                        <div class="progress-bar bg-primary" role="progressbar" style={{ width: "90%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                </p>
+
+
+
                 <p className='icons' data-aos="fade-left">
 
 
@@ -62,10 +95,11 @@ export const Skills = () =>
 
 
                     <span>
-                        <img src='https://symbols.getvecta.com/stencil_79/88_expressjs-icon.e62b12d489.svg' style={{ height: "50px", width: "60px" }}></img>
+                    <img src='https://www.technoscore.com/img/expressjs.png' style={{ height: "50px", width: "60px" }}></img>
+                       
                     </span>
                     <div class="progress col-md-12" style={{ margin: "auto 2px" }}>
-                        <div class="progress-bar bg-dark" role="progressbar" style={{ width: "60%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div></div>
+                        <div class="progress-bar bg-dark" role="progressbar" style={{ width: "80%" }} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div></div>
                 </p>
                 <p className='icons' data-aos="fade-left">
 
